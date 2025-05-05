@@ -1,4 +1,4 @@
-# 📊 Sales Performance Power BI Dashboard
+# 📊 Nike Sales Performance Power BI Dashboard
 
 This Power BI dashboard provides real-time insights into sales performance across different regions, products, retailers, and time periods. It enables leaders to make data-driven decisions with improved accountability and transparency.
 

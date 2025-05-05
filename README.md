@@ -15,8 +15,7 @@ This Power BI dashboard provides real-time insights into sales performance acros
 
 ## 📷 Screenshot
 
-![Dashboard Screenshot](./screenshot.png)
-
+![Image](https://github.com/user-attachments/assets/72e9a182-79b9-4fb2-a131-54b10cd311a9)
 > _Note: Replace `screenshot.png` with your actual screenshot filename._
 
 ---

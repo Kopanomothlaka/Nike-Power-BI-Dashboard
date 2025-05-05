@@ -45,9 +45,10 @@ This Power BI dashboard provides real-time insights into sales performance acros
 ## 🛠️ Tech Stack
 
 - **Power BI Desktop**
-- **Excel (Source File)** – [Sheet1 (Nike Dataset)](./Sheet1%20(Nike%20Dataset)_Sheet1.xlsx)
+- **Excel (Source File)** – [Sheet1 (Nike Dataset)_Sheet1.csv](https://github.com/user-attachments/files/20046403/Sheet1.Nike.Dataset._Sheet1.csv)
 - **DAX** for calculated columns
 - **Power Query** for ETL operations
+- ** Power Bi File - 
 
 
 

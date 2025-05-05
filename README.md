@@ -16,7 +16,6 @@ This Power BI dashboard provides real-time insights into sales performance acros
 ## 📷 Screenshot
 
 ![Image](https://github.com/user-attachments/assets/72e9a182-79b9-4fb2-a131-54b10cd311a9)
-> _Note: Replace `screenshot.png` with your actual screenshot filename._
 
 ---
 
@@ -50,10 +49,5 @@ This Power BI dashboard provides real-time insights into sales performance acros
 - **DAX** for calculated columns
 - **Power Query** for ETL operations
 
----
 
-## 🔧 Getting Started
 
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/sales-performance-dashboard.git
